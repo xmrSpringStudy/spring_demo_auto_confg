@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/github/springStudy/spring_demo_auto_confg/libs/spring/spring-aop-3.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/github/springStudy/spring_demo_auto_confg/libs/spring/spring-aspects-3.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/github/springStudy/spring_demo_auto_confg/libs/spring/spring-beans-3.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/github/springStudy/spring_demo_auto_confg/libs/spring/spring-build-src-3.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/github/springStudy/spring_demo_auto_confg/libs/spring/spring-context-3.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/github/springStudy/spring_demo_auto_confg/libs/spring/spring-context-support-3.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/github/springStudy/spring_demo_auto_confg/libs/spring/spring-core-3.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/github/springStudy/spring_demo_auto_confg/libs/spring/spring-expression-3.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/github/springStudy/spring_demo_auto_confg/libs/spring/spring-framework-bom-3.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/github/springStudy/spring_demo_auto_confg/libs/spring/spring-instrument-3.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/github/springStudy/spring_demo_auto_confg/libs/spring/spring-instrument-tomcat-3.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/github/springStudy/spring_demo_auto_confg/libs/spring/spring-jdbc-3.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/github/springStudy/spring_demo_auto_confg/libs/spring/spring-jms-3.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/github/springStudy/spring_demo_auto_confg/libs/spring/spring-orm-3.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/github/springStudy/spring_demo_auto_confg/libs/spring/spring-oxm-3.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/github/springStudy/spring_demo_auto_confg/libs/spring/spring-struts-3.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/github/springStudy/spring_demo_auto_confg/libs/spring/spring-test-3.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/github/springStudy/spring_demo_auto_confg/libs/spring/spring-tx-3.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/github/springStudy/spring_demo_auto_confg/libs/spring/spring-web-3.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/github/springStudy/spring_demo_auto_confg/libs/spring/spring-webmvc-3.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/github/springStudy/spring_demo_auto_confg/libs/spring/spring-webmvc-portlet-3.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/github/springStudy/spring_demo_auto_confg/libs/common/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/github/springStudy/spring_demo_auto_confg/libs/common/aspectjweaver-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/github/springStudy/spring_demo_auto_confg/libs/common/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/github/springStudy/spring_demo_auto_confg/libs/common/com.springsource.net.sf.cglib-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/xumingxsh/program/github/springStudy/spring_demo_auto_confg/libs/common/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
